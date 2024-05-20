@@ -7,8 +7,8 @@
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width = "200">
- <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width = "200">
+ <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width = "80px">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width = "80px">
  <img alt="Javascript img" src="[YOUR-DEFAULT-IMAGE](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)">
 </picture>
 
