@@ -7,9 +7,9 @@
 </picture>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)">
- <source media="(prefers-color-scheme: light)" srcset="[[YOUR-LIGHTMODE-IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png)](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)">
- <img alt="Cpp img" src="[[YOUR-DEFAULT-IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png)](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)">
+  <source media="(prefers-color-scheme: dark)" srcset="[https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)">
+  <source media="(prefers-color-scheme: light)" srcset="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)">
+  <img alt="Javascript" src="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)">
 </picture>
 
 
