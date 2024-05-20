@@ -6,6 +6,10 @@
  <img alt="Cpp img" src="[YOUR-DEFAULT-IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png)">
 </picture>
 
+### Full-stack Software Engineer, FURI Researcher @Arizona State University, Algo Junkie
+
+#### Connect with me:
+
 <!--
 **AOsman29/AOsman29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
