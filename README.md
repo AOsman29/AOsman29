@@ -27,6 +27,13 @@
 
 #### Connect with me:
 
+<a href="https://www.linkedin.com/in/abdalla-osman-b3178923b/">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width = "80px">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width = "80px">
+ <img alt="linkedIn img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">
+</picture>
+</a>
 <!--
 **AOsman29/AOsman29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
