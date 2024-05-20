@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Abdalla Osmna
+### Hi there 👋, I'm Abdalla Osman
 
 <!--
 **AOsman29/AOsman29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +10,8 @@ Here are some ideas to get you started:
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
