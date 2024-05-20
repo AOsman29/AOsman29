@@ -12,6 +12,12 @@
  <img alt="Javascript img" src="[YOUR-DEFAULT-IMAGE](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)">
 </picture>
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width = "80px">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width = "80px">
+ <img alt="python img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png">
+</picture>
+
 
 
 
