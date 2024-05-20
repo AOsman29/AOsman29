@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abdalla Osman
 
-<a href="[https://www.example.com](https://gcc.gnu.org/)">
+<a href="https://gcc.gnu.org/">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png)">
