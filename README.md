@@ -8,7 +8,7 @@
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
- <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/80px/JavaScript-logo.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/2a/JavaScript-logo.png">
  <img alt="Javascript img" src="[YOUR-DEFAULT-IMAGE](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)">
 </picture>
 
