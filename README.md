@@ -27,11 +27,11 @@
 </picture>
 </a>
 
-<--below is the connect with me tittle-->
-<!-- Below is my title introduction -->
+
+<!-- below is the connect with me tittle -->
 #### Connect with me:
-<--After that is the-->
-<!-- Below is my title introduction -->
+
+<!-- After that is the -->
 <a href="https://www.linkedin.com/in/abdalla-osman-b3178923b/">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width = "80px">
