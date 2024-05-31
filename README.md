@@ -49,6 +49,7 @@
  <img alt="python img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png">
 </picture>
 </a>
+
 <!-- below is the connect with me tittle -->
 #### Connect with me:
 
