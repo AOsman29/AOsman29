@@ -1,6 +1,8 @@
-<!-Below is my title introduction ->
+
+<!-- Below is my title introduction -->
 ### Hi there 👋, I'm Abdalla Osman
-<--- Next is my categories on who I want to be introduced as->
+
+<!-- Next is my categories on who I want to be introduced as -->
 ### Full-stack Software Engineer, FURI Researcher @Arizona State University, Algo Junkie
 <--Next section is the things I'm good at-->
 <a href="https://gcc.gnu.org/">
@@ -26,8 +28,10 @@
 </a>
 
 <--below is the connect with me tittle-->
+<!-- Below is my title introduction -->
 #### Connect with me:
 <--After that is the-->
+<!-- Below is my title introduction -->
 <a href="https://www.linkedin.com/in/abdalla-osman-b3178923b/">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width = "80px">
