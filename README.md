@@ -33,6 +33,13 @@
  <img alt="python img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png">
 </picture>
 </a>
+<a href="https://www.vim.org/">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width = "80px">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width = "80px">
+ <img alt="python img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png">
+</picture>
+</a>
 
 <!-- below is the connect with me tittle -->
 #### Connect with me:
