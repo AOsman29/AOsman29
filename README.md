@@ -40,8 +40,15 @@
  <img alt="python img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png">
 </picture>
 </a>
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png
 
+</a>
+<a href="https://www.vmware.com/">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png" width = "80px">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png" width = "80px">
+ <img alt="python img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/800px-Vmware_workstation_16_icon.svg.png">
+</picture>
+</a>
 <!-- below is the connect with me tittle -->
 #### Connect with me:
 
