@@ -50,6 +50,16 @@
 </picture>
 </a>
 
+</a>
+<a href="https://neovim.io/doc/">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" width = "80px">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png" width = "80px">
+ <img alt="python img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/1200px-Neovim-mark.svg.png">
+</picture>
+</a>
+
+
 <!-- below is the connect with me tittle -->
 #### Connect with me:
 
