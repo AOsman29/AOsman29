@@ -1,4 +1,4 @@
-
+![image](https://github.com/AOsman29/AOsman29/assets/99369800/bd60ae3b-ee35-4da6-879f-a733fca30e75)
 <!-- Below is my title introduction -->
 ### Hi there 👋, I'm Abdalla Osman
 
@@ -71,6 +71,21 @@
  <img alt="linkedIn img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png">
 </picture>
 </a>
+
+#### Leetcode Profile
+
+
+
+<a href="https://leetcode.com/u/Dee_1/">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://image.pngaaa.com/118/4868118-middle.png" width = "80px">
+ <source media="(prefers-color-scheme: light)" srcset="https://image.pngaaa.com/118/4868118-middle.png" width = "80px">
+ <img alt="Leetcode img" src="https://image.pngaaa.com/118/4868118-middle.png">
+</picture>
+</a>
+
+
+##### Other Stats
 <!--
 **AOsman29/AOsman29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
