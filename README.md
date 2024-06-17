@@ -1,4 +1,4 @@
-![image](https://github.com/AOsman29/AOsman29/assets/99369800/bd60ae3b-ee35-4da6-879f-a733fca30e75)
+
 <!-- Below is my title introduction -->
 ### Hi there 👋, I'm Abdalla Osman
 
