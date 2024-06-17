@@ -78,21 +78,12 @@
 
 <a href="https://leetcode.com/u/Dee_1/">
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" width = "80px">
- <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png" width = "80px">
+ <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png" width = "200px">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png" width = "200px">
  <img alt="Leetcode img" src="https://image.pngaaa.com/118/4868118-middle.png">
 </picture>
 </a>
 
-<!--
-//black back round
-
-https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png
-
-//white back round 
-
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1280px-LeetCode_Logo_black_with_text.svg.png
--->
 ##### Other Stats
 <!--
 **AOsman29/AOsman29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
