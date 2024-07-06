@@ -62,8 +62,8 @@
 </a>
 <a href="https://www.gnu.org/software/bash/manual/bash.html">
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" width = "80px">
- <source media="(prefers-color-scheme: light)" srcset="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg" width = "80px">
+ <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" width = "80px">
+ <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/8/83/The_GNU_logo.png" width = "80px">
  <img alt="bash logo img" src="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg">
 </picture>
 </a>
