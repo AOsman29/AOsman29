@@ -68,7 +68,9 @@
 </picture>
 </a>
 
-https://postgresconf.org/system/conferences/logos/000/000/006/original/PostgreSQL_logo.3colors.540x557.png
+
+
+
 
 </a>
 <a href="https://www.postgresql.org/docs/current/pgcrypto.html">
@@ -77,8 +79,7 @@ https://postgresconf.org/system/conferences/logos/000/000/006/original/PostgreSQ
 " width = "80px">
  <source media="(prefers-color-scheme: light)" srcset="https://postgresconf.org/system/conferences/logos/000/000/006/original/PostgreSQL_logo.3colors.540x557.png
 " width = "80px">
- <img alt="PostgreSQL_logo" src="https://postgresconf.org/system/conferences/logos/000/000/006/original/PostgreSQL_logo.3colors.540x557.png
-">
+ <img alt="PostgreSQL_logo" src="https://postgresconf.org/system/conferences/logos/000/000/006/original/PostgreSQL_logo.3colors.540x557.png">
 </picture>
 </a>
 
