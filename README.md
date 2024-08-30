@@ -79,7 +79,7 @@
 " width = "80px">
  <source media="(prefers-color-scheme: light)" srcset="https://postgresconf.org/system/conferences/logos/000/000/006/original/PostgreSQL_logo.3colors.540x557.png
 " width = "80px">
- <img alt="PostgreSQL_logo" src="https://postgresconf.org/system/conferences/logos/000/000/006/original/PostgreSQL_logo.3colors.540x557.png">
+ <img alt="PostgreSQL_logo" src="https://postgresconf.org/system/conferences/logos/000/000/006/original/PostgreSQL_logo.3colors.540x557.png" width = "80px">
 </picture>
 </a>
 
