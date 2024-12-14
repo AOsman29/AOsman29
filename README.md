@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Abdalla Osman
 
 <!-- Next is my categories on who I want to be introduced as -->
-### Full-stack Software Engineer, FURI Researcher @Arizona State University, Algo Enthusiast
+### Full-stack Software Engineer @Arizona State University, Algo Enthusiast
 <!--Next section is the things I'm good at-->
 <a href="https://gcc.gnu.org/">
 <picture>
