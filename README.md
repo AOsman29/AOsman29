@@ -5,6 +5,7 @@
 <!-- Next is my categories on who I want to be introduced as -->
 ### Computer Science Engineer @Arizona State University
 <!--Next section is the things I'm good at-->
+<!--
 <a href="https://gcc.gnu.org/">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png">
@@ -12,6 +13,7 @@
  <img alt="Cpp img" src="[YOUR-DEFAULT-IMAGE](https://www.pikpng.com/pngl/m/469-4698781_learning-c-programming-4-c-logo-svg-clipart.png)">
 </picture>
 </a>
+-->
 <a href="https://www.javascript.com/">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width = "80px">
