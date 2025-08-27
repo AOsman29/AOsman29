@@ -8,7 +8,7 @@
 <a href="https://gcc.gnu.org/">
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://www.pikpng.com/pngl/m/469-4698781_learning-c-programming-4-c-logo-svg-clipart.png)">
  <img alt="Cpp img" src="[YOUR-DEFAULT-IMAGE](https://www.pikpng.com/pngl/m/469-4698781_learning-c-programming-4-c-logo-svg-clipart.png)">
 </picture>
 </a>
