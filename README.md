@@ -9,7 +9,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png)">
- <img alt="Cpp img" src="[YOUR-DEFAULT-IMAGE](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/80px-ISO_C%2B%2B_Logo.svg.png)">
+ <img alt="Cpp img" src="[YOUR-DEFAULT-IMAGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FhiJxhTi_learning-c-programming-4-c-logo-svg-clipart%2F&psig=AOvVaw0Icatr7mtDKQ0E0seH4gI1&ust=1756421220383000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCKiTm4mJrI8DFQAAAAAdAAAAABAE)">
 </picture>
 </a>
 <a href="https://www.javascript.com/">
